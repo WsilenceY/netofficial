@@ -31,7 +31,7 @@ export default function RootLayout({
                           </a>
                       </div>
                       <div className="hidden lg:flex lg:gap-x-8">
-                          <a href="#" className="text-sm font-semibold leading-6 text-wright">首页</a>
+                          <a href="/" className="text-sm font-semibold leading-6 text-wright">首页</a>
                           <a href="/pefPage" className="text-sm font-semibold leading-6 text-wright">白皮书</a>
                       </div>
                       <div className="flex">
